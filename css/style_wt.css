@@ -1,0 +1,143 @@
+@charset "utf-8";@media (max-width:1200px){.ttop{display:block}
+.top{height:110px}
+.top .logo{top:24px;left:15px}
+.top .logo .logowz{display:none!important}
+.top .search{width:386px;height:40px;border:solid 1px #0f3778;top:36px;left:auto;right:15px}
+.top .search .search_inp{width:290px}
+.top .search .search_btn{width:54px;}
+.top .gaokao{display:none}
+.top .menu{display:none}
+.banner{width:530px}
+.index_main_right{margin-left:530px;padding:0 30px}
+.index_main_right ul li{border-top:dotted 1px #bababa}
+.index_main_right ul li .tit{padding-left:14px;background:url(../images/huangdian1.png) no-repeat left 9px;line-height:26px;color:#414141;font-size:18px;height:26px;overflow:hidden;display:block;text-overflow:ellipsis;white-space:nowrap}
+.index_main_right ul li .cont{padding-left:14px;line-height:20px;color:#999;font-size:15px;height:40px;display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:2;overflow:hidden}
+.index_main1 .container a.fl>span.abs span{margin:50px 20px;display:block;display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:4;overflow:hidden}
+.xuanfu{display:none}
+.index_m2_left{width:580px}
+.index_m_cont2 .index_m_cont_qh{padding:0 20px 20px;border-bottom:solid 2px #eb8f00}
+.index_m_cont2 .index_m_cont_qh a.fl{width:28%;padding:0 10px}
+.footer .footer_ewm{width:200px}
+.footer .copyRight{width:450px}
+.footer .footer_logo{width:230px}
+
+.about_contact .item{width: 100%;float: left;padding: 15px 0;height: auto;}
+.about_contact .item1 .wxh{width: 25%;margin: 35px 0 0 8%;}
+.about_contact  .item1 .pic{width: 30%;margin: 0 0 0 3%;}
+.about_contact  .item1 .des{width: 30%;margin: 10px 0 0 3%;}
+.about_contact .item2 .qqh{width: 25%;margin: 25px 0 0 8%;}
+.about_contact .item2 .avatar{width: 23%;margin: 5px 0 0 10%;}
+.about_contact .men{width: 16%;}
+.about_contact .content{width: 78%;} 
+}
+@media (max-width:991px){.top{height:110px;margin-bottom:50px}
+.top .logo{top:24px;left:15px}
+.top .logo .logowz{display:none!important}
+.top .search{width:100%;padding-right:54px;height:40px;border:solid 1px #0f3778;top:110px;left:auto;right:0;position:relative;box-sizing:border-box}
+.top .search .search_inp{width:100%}
+.top .search .search_btn{width:54px;position:absolute;top:0;right:0}
+.top .gaokao{display:none}
+.top .menu{display:block;top:35px}
+
+.index_nav{position:fixed;opacity:0;top:0;right:-150px;width:150px;height:100%;background: rgba(255,255,255,.9);}
+.index_nav .menu_close{display:block;border-radius: 50%;}
+.index_nav .container{padding:0;width:auto}
+.index_nav ul{width:100%;background: none;}
+.index_nav ul li{float:none;width:100%;height:40px;line-height:40px;text-align:center;background: none;position: relative;}
+.index_nav ul li a{font-size: 14px;color: #414141;height: 40px;line-height: 40px;}
+.index_nav ul li a.on, .index_nav ul li a:hover{background: rgba(15,54,119,0.9);color: #fff;}
+
+.index_nav ul li .sub{position: absolute;right:150px;left: auto; width: 150px;    background: rgba(15,54,119,0.9);top: 0;opacity: 1;display: none;}
+.index_nav ul li .sub a{color: #fff;font-size: 14px;}
+
+.banner{width:530px}
+.index_main_right{margin-left:530px;padding:0 15px}
+.index_main_right ul li{border-top:dotted 1px #bababa}
+.index_main_right ul li .tit{padding-left:14px;background:url(../images/huangdian1.png) no-repeat left 9px;line-height:26px;color:#414141;font-size:18px;height:26px;overflow:hidden;display:block}
+.index_main_right ul li .cont{padding-left:14px;line-height:20px;color:#999;font-size:15px;height:40px;overflow:hidden}
+.index_m2_left{width:100%}
+.index_m2_right{width:100%;margin-top:20px}
+.index_m2_right .index_m_cont1{padding:15px 0}
+.index_m2_right .index_m_cont1 ul li{width:25%}
+.footer .footer_ewm{display:none}
+.footer .copyRight{width:100%;float:none;padding-top:0;margin-left:0}
+.footer .footer_logo{display:none}
+.dibu{display:none}
+.dlm_div1{margin-bottom:0}
+.news,.links{display: none;}
+}
+@media (max-width:767px){.top{height:80px;margin-bottom:50px}
+.top .logo{top:9px;left:15px}
+.top .logo .logowz{display:none!important}
+.top .search{width:100%;padding-right:54px;height:40px;border:solid 1px #0f3778;top:80px;left:auto;right:0;position:relative;box-sizing:border-box}
+.top .search .search_inp{width:100%}
+.top .search .search_btn{width:54px;position:absolute;top:0;right:0}
+.top .gaokao{display:none}
+.top .menu{display:block;top:20px}
+.banner{width:100%;padding-left:15px;padding-right:15px;box-sizing:border-box;float:none!important}
+.index_main_right{margin-left:0;margin-top:10px;float:none!important;padding:0 15px}
+.index_main_right ul li{border-top:dotted 1px #bababa}
+.index_main_right ul li .tit{padding-left:14px;background:url(../images/huangdian1.png) no-repeat left 9px;line-height:26px;color:#414141;font-size:18px;height:26px;overflow:hidden;display:block}
+.index_main_right ul li .cont{padding-left:14px;line-height:20px;color:#999;font-size:15px;height:40px;overflow:hidden}
+.index_m2_left{width:100%}
+.index_m2_left .index_m_cont ul li{width:100%}
+.index_m2_left .index_m_cont ul li:nth-child(n+8){display:none}
+.index_m2_right{width:100%;margin-top:20px}
+.index_m2_right .index_m_cont1{padding:15px 0}
+.index_m2_right .index_m_cont1 ul li{width:50%}
+.index_m2_right .index_m_cont1 ul li a{margin-left:15px;margin-right:15px}
+.index_m_cont_qh1{padding:10px 0 5px}
+.index_m_cont_qh1 ul li{width:100%;height:33px;line-height:33px}
+.index_m_cont_qh1 ul li:nth-child(n+7){display:none}
+.index_m_cont_qh1 ul li:last-child{display:block}
+.dlm_ul li{padding:20px 0 0;border-top:dotted 1px #c1c1c1}
+.dlm_ul li .pic{width:100%;float:none;margin-bottom:10px;display:none}
+.dlm_ul li .pic img{width:100%}
+.dlm_ul li .note{margin-left:0}
+.dlm_ul li .note .tit{color:#575757;font-size:20px;display:block;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.dlm_ul li .note .note_word{line-height:26px;color:#818181;margin-top:5px;font-size:14px;display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:3;overflow:hidden}
+.dlm_ul li .note .note_keywords{margin:15px 0}
+.dlm_ul li .note .note_keywords .note_keywords_left{width:auto;color:#818181;float:left;font-size:12px;margin:0}
+.dlm_ul li .note .note_keywords .note_keywords_left .fl{display: none;}
+.dlm_ul li .note .note_keywords .note_keywords_left .fr{float: left;}
+
+.dlm_ul li .note .note_keywords .note_time{color:#818181;font-size:12px;float:right;text-align:left;margin:0}
+
+.ej_d_top{padding-top:10px;padding-right:0;border-bottom:dotted 1px #c1c1c1}
+.ej_d_top .ej_d_topl{padding-top:15px}
+.ej_d_top .ej_d_topl .tit{color:#575757;font-size:24px}
+.ej_d_top .ej_d_topl .note{color:#818181;font-size:12px;margin-top:20px;line-height:20px}
+.ej_d_top .ej_d_topl .note>span{width:40%;float:left}
+.ej_d_top .ej_d_topl .note>span.fenx{position:relative;top:-3px}
+.ej_d_top .ejd_topr{display:none}
+.fanye{margin-top:10px;padding-top:10px;border-top:dotted 1px #c1c1c1}
+.fanye a{color:#818181;font-size:14px;max-width:100%;width:100%;float:none;display:block}
+.links  .content{width:90%;margin-left: 5%;margin-right: 5%; }
+.about_banner{display: none; background:url(../images/about_04.png) #d2e1dc no-repeat center center ;background-size: contain;}
+.about_contact .content{width: 96%; padding: 0 2%;}
+.about_contact .men{float: none;width: 100%;height: 55px;}
+.about_contact .men li{border-bottom: 0;float: left;width: 33.3%;}
+.about_contact .men li a{border-bottom: 0;}
+.about_contact .men .cur:after{content: '';position: absolute; right: 50%;top: 55px; background:url(../images/about_02.png)  no-repeat center top;width: 11px;height: 6px; }
+}
+@media (max-width:560px){.index_main1 .container{background:0 0}
+.index_main1 .container a.fl{width:50%;height:170px;padding-top:30px;background:url(../images/shuxian.png) no-repeat right center;text-align:center;color:#707070;font-size:18px;font-weight:700;border-top:solid 1px #ccc;margin-top:-1px}
+.index_main1 .container a.fl:nth-child(2n){background:0 0}
+.index_main1 .container a.fl>span.abs{display:none!important}
+.index_main1 .container a.fl>span.abs span{margin:50px 20px}
+.index_m_cont2 .index_m_cont_qh{padding:0 10px 20px;border-bottom:solid 2px #eb8f00}
+.index_m_cont2 .index_m_cont_qh a.fl{width:45%;padding:0 5px}
+.pages a{width:40%}
+.pages div{display:none}
+}
+@media (max-width:480px){
+.about_contact .item{height: auto;}
+.about_contact .item .con{text-align: center;}
+.about_contact .item1 .wxh{width: 100%;margin: 5px 0 0 0%;}
+.about_contact  .item1 .pic{width: 100%;margin: 0 0 0 0%;}
+.about_contact  .item1 .des{width: 100%;margin: 10px 0 0 0%;}
+.about_contact .item3 .con span{display: block;}
+.about_contact .item2 .qqh{width: 80%;margin: 25px 0 20px 20%;text-align: left;}
+.about_contact .item2 .avatar{width: 40%;margin: 5px 0 0 10%;}
+
+}
